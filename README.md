@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=blue&vCenter=true&lines=Machine+Learning+Enthusiastt+👩‍🔬;Coder+💻;Learner+📊;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=blue&vCenter=true&lines=Hi+I'm+Yash+Chauhan+👋;Machine+Learning+Enthusiast+👩‍🔬;Avid+Coder+💻;)](https://git.io/typing-svg)
 # 💫 About Me:
 Machine Learning | Data Science | Deep Learning<br>Hey there 👋 I'm a pre-final year student at BITS Pilani, I like to code, innovate and experiment.<br>I am an enthusiastic person who loves a good challenge, I love meeting up with people and sharing knowledge.<br>
 
