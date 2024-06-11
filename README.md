@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Google+Sans+Bold&weight=800&size=40&duration=4000&pause=1000&color=5349E7&center=true&vCenter=true&random=false&width=480&height=90&lines=Hi+there+I'm+Yash+Chauhan+%F0%9F%91%8B;Machine+Learning+Enthusiast+%F0%9F%92%BB;Avid+Coder+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Live+Projects+with+Google+India+;Student+%40BITS+Pilani)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Google+Sans+Bold&weight=800&size=40&duration=4000&pause=1000&color=5349E7&center=true&vCenter=true&random=false&width=600&height=90&lines=Hi+there+I'm+Yash+Chauhan+%F0%9F%91%8B;Machine+Learning+Enthusiast+%F0%9F%92%BB;Avid+Coder+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Live+Projects+with+Google+India+;Student+%40BITS+Pilani)](https://git.io/typing-svg)
 
 # 💫 About Me:
 Machine Learning | Data Science | Deep Learning<br>Hey there 👋 I'm a pre-final year student at BITS Pilani, I like to code, innovate and experiment.<br>I am an enthusiastic person who loves a good challenge, I love meeting up with people and sharing knowledge.<br>
